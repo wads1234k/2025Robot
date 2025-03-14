@@ -6,4 +6,4 @@ test
 
 ![image](https://github.com/user-attachments/assets/45c31cba-d28a-499e-b67a-c856fd343913)
 
-폴더 만들기
+폴더 만들기 -> Add file -> create new file ->폴더 이름 입력 
