@@ -1,6 +1,6 @@
 test
 
-이미지 넣기 -> image
+이미지 넣기 -> ![image](https://github.com/user-attachments/assets/c255eb24-577f-4f27-a294-cbd4423603e4)
 
 image
 
